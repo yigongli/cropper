@@ -1,0 +1,14 @@
+{
+  "name": "bkm-cropper",
+  "homepage": "https://github.com/yigongli/cropper",
+  "description": "bkm cropper library 4.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.4"
+  },
+  "main": [
+    "./dist/cropper.min.js",
+    "./dist/cropper.min.css"
+  ],
+  "_source": "https://github.com/yigongli/cropper.git"
+}
