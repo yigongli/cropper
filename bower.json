@@ -7,7 +7,7 @@
     "jquery": "~2.1.4"
   },
   "main": [
-    "./dist/cropper.min.js",
+    "./dist/cropper.js",
     "./dist/cropper.min.css"
   ],
   "_source": "https://github.com/yigongli/cropper.git"
